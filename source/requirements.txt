@@ -1,0 +1,9 @@
+anthropic==1.13.0
+fastapi==0.143.0
+google-genai==2.29.0
+pillow==12.3.0
+pydantic==2.14.0
+python-dotenv==1.2.4
+python-multipart==0.0.32
+rapidocr_onnxruntime==1.4.4
+uvicorn==0.54.0
