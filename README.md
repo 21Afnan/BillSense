@@ -12,6 +12,12 @@ JSON (**Level 1**), and answers customer questions about each bill in plain Engl
 
 ---
 
+## Demo Video
+
+▶️ **Watch the demo walkthrough:** [demo.mp4](demo.mp4) (or stream directly on GitHub via [raw link](https://github.com/21Afnan/BillSense/raw/main/demo.mp4))
+
+---
+
 ## Level 1 pipeline
 
 ```mermaid
